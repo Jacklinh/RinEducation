@@ -1,3 +1,6 @@
+.sec_hero {
+    padding: 80px 0 160px;
+}
 .hero_cnt,
 .hero_image {
     width: calc((100% - 20px) / 2);
